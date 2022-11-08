@@ -1,0 +1,10 @@
+ {  "modelo": {
+    "posto": 3,
+    "operador": "Antero Júnior",
+    "modelo": "Placa XYZ123",
+    "checklist": {
+        "ram":{"Descrição": "Memória RAM", "Imagem etapa": "", "Imagem Componente": ""},
+        "Conector Bateria": {"Descrição": "Conector Bateria", "Imagem etapa": "", "Imagem Componente": ""},
+        "Disco Rígido":{"Descrição": "Disco Rígido", "Imagem etapa": "", "Imagem Componente": ""}
+    }
+  }}
